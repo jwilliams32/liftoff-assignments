@@ -12,4 +12,4 @@ https://github.com/jwilliams32
 ### LinkedIn
 https://www.linkedin.com/in/jeffrey-williams-37482493
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+https://docs.google.com/document/d/16_az_G0KT7wTF7dcQjhgmTOMjXzkPct7kbvw8UvWgCg/edit?usp=sharing
